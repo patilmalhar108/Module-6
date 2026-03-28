@@ -1,0 +1,13 @@
+a = [1,2,4,5,7,8]
+length = len(a)
+print(length)
+a.append(3)
+print(a)
+a.remove(7)
+print(a)
+a.pop(1)
+print(a)
+a.sort()
+print(a)
+a.reverse()
+print(a)
